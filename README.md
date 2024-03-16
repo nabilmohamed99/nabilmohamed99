@@ -4,22 +4,21 @@
     <a href="https://www.linkedin.com/in/mohammed-nabil-536b5b153/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<img src="https://github.com/mohammednabil/mohammednabil/blob/master/profile-img.png" align="right" width="25%"/>
 
 I'm a passionate software engineer specializing in machine learning and data science. Currently, I work as a Machine Learning Engineer at the MEIER Energy Research Center, where I develop machine learning models for electricity prediction and create software applications for data manipulation.
 
-## Professional Experience
+## 🛠️ Professional Experience
 
-- **Machine Learning Engineer** - Centre de Recherche MEIER Énergie (start date - present)
+- **Artificial intelligence engineer  Engineer** - MEIER Énergie (2024 - present)
   - Development of machine learning models for electricity prediction.
   - Creation of software applications for data manipulation.
 
-## Skills 
+## 💼 Skills 
 
 - Modeling and prediction of electricity using machine learning techniques.
 - Development of software applications for data manipulation and analysis.
 - Experience in precision IoT and remote sensing.
 
-## About Me 🔭 
+## 🔍 About Me 
 
 In addition to my professional work, I'm passionate about exploring new technologies and contributing to the tech community. I enjoy sharing my knowledge and experiences with others and continuously seek opportunities for growth and learning.
