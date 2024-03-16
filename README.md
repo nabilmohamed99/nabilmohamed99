@@ -5,7 +5,7 @@
 </p>
 
 
-I'm a passionate software engineer specializing in machine learning and data science. Currently, I work as a Machine Learning Engineer at the MEIER Energy Research Center, where I develop machine learning models for electricity prediction and create software applications for data manipulation.
+I'm a passionate software engineer specializing in machine learning and data science. Currently, I work as a Machine Learning Engineer at the MEIER Energy, where I develop machine learning models for electricity prediction and create software applications for data manipulation.
 
 ## 🛠️ Professional Experience
 
