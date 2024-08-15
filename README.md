@@ -9,7 +9,7 @@ I'm a passionate software engineer specializing in machine learning and data sci
 
 ## 🛠️ Professional Experience
 
-- **Artificial intelligence engineer  Engineer** - MEIER Énergie (2024 - present)
+- **Artificial intelligence engineer  Engineer** - ELEXPERT (2024 - present)
   - Development of machine learning models for electricity prediction.
   - Creation of software applications for data manipulation.
 
