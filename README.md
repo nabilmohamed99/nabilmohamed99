@@ -184,32 +184,6 @@ currently_mastering:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilmohamed99&theme=tokyonight" alt="nabilmohamed99" />
 </p>
 
-
----
-
-## 💡 Core Competencies
-
-```
-🎯 Technical Skills          🤝 Soft Skills              
-├─ LLM Agent Development     ├─ Creative Problem Solving
-├─ RAG Architectures         ├─ Team Collaboration      
-├─ MLOps & Production AI     ├─ Project Management      
-├─ Big Data Processing       ├─ Analytical Thinking     
-├─ ML/DL Engineering         ├─ Results-Oriented        
-└─ System Architecture       └─ Continuous Learning     
-```
-
----
-
-## 🏆 Achievements & Activities
-
-- 🚀 **2025** - Leading LLM agent development at Orange Maroc
-- 💼 **2022** - Member of ELEXPERT Team
-- 🎓 **2019** - Active member of DSC (Developer Student Clubs) at ENSAM Casablanca
-- ⚽ Sports enthusiast and team player
-- 🎵 Music lover and creative mind
-- 📚 Continuous learner in AI/ML technologies
-
 ---
 
 ## 📫 Let's Connect!
