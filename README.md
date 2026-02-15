@@ -173,104 +173,6 @@ currently_mastering:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 LLM Conversational Agent with RAG
-**Production-ready intelligent assistant for customer service**
-
-Built an advanced conversational AI system for Orange Maroc using Retrieval-Augmented Generation (RAG) to provide accurate, context-aware responses to customer queries.
-
-**Key Features:**
-- 🔍 Intelligent document retrieval using vector embeddings (FAISS)
-- 💬 Multi-turn conversations with context management
-- 🧠 Custom tools for business-specific operations
-- 📊 Real-time analytics and usage tracking
-- ⚡ Optimized for low latency and high throughput
-
-**Tech Stack:** `LangChain` `OpenAI GPT-4` `FAISS` `FastAPI` `Docker` `Kubernetes` `Redis`
-
-**Impact:** Handles thousands of customer interactions daily with 90%+ satisfaction rate
-
----
-
-### ⚡ Electricity Consumption Forecasting System
-**ML-powered energy prediction for optimization**
-
-Developed sophisticated time series models to forecast electricity consumption patterns, enabling better energy planning and cost reduction.
-
-**Highlights:**
-- 📈 Achieved >95% forecasting accuracy
-- 🔮 Multi-horizon predictions (hourly, daily, monthly)
-- 🌡️ Weather integration for improved accuracy
-- 📊 Interactive dashboards for stakeholders
-
-**Tech Stack:** `TensorFlow` `PyTorch` `LSTM` `Prophet` `XGBoost` `Streamlit`
-
----
-
-### 🔒 Financial Fraud Detection System
-**Real-time anomaly detection for transactions**
-
-Built a comprehensive ML system to detect fraudulent financial transactions in real-time, reducing fraud losses and improving security.
-
-**Features:**
-- 🎯 Real-time scoring and alerting
-- 🧠 Ensemble models (Random Forest + Isolation Forest + Autoencoders)
-- 📊 Explainable AI for compliance
-- 🔄 Continuous learning and model updates
-
-**Tech Stack:** `Python` `Scikit-learn` `Pandas` `MLflow` `FastAPI`
-
-**Results:** Reduced false positives by 40% while improving detection accuracy
-
----
-
-### 📊 Executive Financial Dashboards
-**Interactive BI for strategic decision-making**
-
-Created comprehensive business intelligence dashboards for Attijariwafa Bank executives, providing real-time insights into financial performance and KPIs.
-
-**Capabilities:**
-- 📈 Real-time financial metrics and KPIs
-- 🎯 Interactive drill-down analysis
-- 📊 Custom visualizations and reporting
-- 🔄 Automated data refresh and alerts
-
-**Tech Stack:** `Power BI` `QlikView` `SQL` `Python` `DAX`
-
----
-
-### 👁️ PCB Quality Control AI
-**Computer vision for automated defect detection**
-
-Designed an AI-powered quality inspection system for printed circuit board manufacturing, reducing manual inspection time and improving defect detection.
-
-**Achievements:**
-- 🎯 70% reduction in manual inspection time
-- 📊 Higher defect detection accuracy than human inspectors
-- ⚡ Real-time processing on production line
-
-**Tech Stack:** `Computer Vision` `YOLO` `Deep Learning` `OpenCV` `PLCnext`
-
----
-
-## 🎓 Education & Certifications
-
-### 🎓 Education
-**Diplôme d'Ingénieur d'État en Intelligence Artificielle et Génie Informatique**  
-École Nationale Supérieure d'Arts et Métiers (ENSAM) - Casablanca  
-*2017 - 2022*
-
-**Baccalauréat Sciences Mathématiques - Option A**  
-Lycée Ibn Mandour  
-*2016 - 2017*
-
-### 📜 Certifications
-- 🏆 **Advanced Computer Vision with TensorFlow**
-- 🔒 **CCNA Cybersecurity Operations**
-- 📊 **Data Visualization with Python**
-
----
 
 ## 📈 GitHub Stats
 
@@ -282,13 +184,6 @@ Lycée Ibn Mandour
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabilmohamed99&theme=tokyonight" alt="nabilmohamed99" />
 </p>
 
----
-
-## 🌐 Languages
-
-- 🇲🇦 **Arabic** - Native Speaker
-- 🇫🇷 **French** - Advanced (C1) - Professional Proficiency
-- 🇬🇧 **English** - Professional Working Proficiency (B2)
 
 ---
 
