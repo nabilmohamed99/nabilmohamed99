@@ -12,7 +12,6 @@ name: Mohammed Nabil
 located_in: Casablanca, Morocco
 current_status: Data Scientist at Orange Maroc
 education: "Engineering degree in AI and Computer Science - ENSAM Casablanca"
-birth_date: 26/08/1999
 
 fields_of_expertise:
   [
@@ -29,9 +28,8 @@ professional_journey:
   [
     "Data Scientist - Orange Maroc (2025-Present) - LLM Agents & RAG",
     "Data Analyst - Attijariwafa Bank (2025) - BI & Big Data",
-    "Data Scientist & Software Engineer - ELEXPERT (2022-2025)",
+    "Data Scientist & Software Engineer - ELEXPERT (2022-2024)",
     "AI Engineer - Phoenix Contact | CCOA | Nextronic (2022)",
-    "ML Engineer - Snep (2021)"
   ]
 
 currently_mastering:
