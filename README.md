@@ -46,12 +46,6 @@ currently_mastering:
 
 **Data Scientist and AI Engineer** specializing in **LLM agents, RAG architectures, and production ML systems**. I transform complex business challenges into intelligent solutions using cutting-edge AI technologies. My expertise spans from conversational AI agents to fraud detection, with a strong focus on MLOps and scalable deployments.
 
-🎓 Engineering graduate from **ENSAM Casablanca** specializing in AI and Computer Science  
-💼 Currently building **LLM agents and RAG systems** at **Orange Maroc**  
-🤖 Expert in **LangChain, LlamaIndex**, and **AI agent orchestration**  
-📊 Experience in **Big Data analytics, BI dashboards**, and **financial systems**  
-🚀 Passionate about **MLOps, microservices**, and **production AI**  
-🔬 Deep knowledge in **ML/DL, NLP, Computer Vision**, and **Time Series**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammed-nabil-536b5b153/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
