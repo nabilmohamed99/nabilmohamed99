@@ -40,6 +40,7 @@ currently_mastering:
   cloud: ["GCP", "Cloud Storage", "AI Platform"]
 
 2025_focus: "Building production-ready LLM agents with RAG and scaling AI solutions"
+```
 ---
 
 ## 🛠️ Technical Arsenal
