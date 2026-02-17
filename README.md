@@ -42,18 +42,7 @@ currently_mastering:
 2025_focus: "Building production-ready LLM agents with RAG and scaling AI solutions"
 ```
 
-## 👨‍💻 About Me
 
-**Data Scientist and AI Engineer** specializing in **LLM agents, RAG architectures, and production ML systems**. I transform complex business challenges into intelligent solutions using cutting-edge AI technologies. My expertise spans from conversational AI agents to fraud detection, with a strong focus on MLOps and scalable deployments.
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-nabil-536b5b153/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mr.nabilmohamed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/nabilmohamed99"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-**Tech Stack:** `Computer Vision` `Deep Learning` `Object Detection` `YOLO` `Image Processing` `PLCnext`
 
 ---
 
