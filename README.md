@@ -170,10 +170,8 @@ I'm always interested in collaborating on innovative **AI/ML projects**, discuss
 
 <p align="center">
   📧 <strong>Email:</strong> <a href="mailto:mr.nabilmohamed@gmail.com">mr.nabilmohamed@gmail.com</a><br>
-  📱 <strong>Phone:</strong> +212 649 07 94 38<br>
   💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohammed-nabil-536b5b153/">mohammed-nabil-536b5b153</a><br>
   💻 <strong>GitHub:</strong> <a href="https://github.com/nabilmohamed99">nabilmohamed99</a><br>
-  📍 <strong>Location:</strong> Casablanca, Morocco
 </p>
 
 ---
